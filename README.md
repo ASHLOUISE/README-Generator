@@ -51,7 +51,7 @@ Quickly and easily generate a README file by using a command-line application to
 
 ![image](https://github.com/ASHLOUISE/README-Generator/assets/152327760/1626efdb-b6a0-4eec-8041-92e224104a3e)
 
-[Untitled_ Jan 26 2024 3_20 PM.webm](https://github.com/ASHLOUISE/README-Generator/assets/152327760/1ebe809d-ea56-4b07-b7d0-f56e33d72629)
+https://drive.google.com/file/d/14e_C6Q00UkW5ysHxnFTwSKOaUMkImReh/view 
 
 
 
