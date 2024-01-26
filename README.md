@@ -54,7 +54,7 @@ Quickly and easily generate a README file by using a command-line application to
 
 ## Links
 
-* GitHub: 
+* GitHub: https://github.com/ASHLOUISE/README-Generator.git
 
 
 
